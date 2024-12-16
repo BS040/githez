@@ -1,2 +1,4 @@
 piros
 zöld
+fekete
+sárga
